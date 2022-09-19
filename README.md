@@ -6,7 +6,7 @@
 
   解压密码：www.jb51.net
 
-
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 # HEU KMS Activator最新24.0.0版本使用说明
 
   关于v24.6.4一些说明
