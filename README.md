@@ -6,7 +6,6 @@
 
   解压密码：www.jb51.net
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 # HEU KMS Activator最新24.0.0版本使用说明
 
   关于v24.6.4一些说明
@@ -15,8 +14,7 @@
     1、最常见的是激活Office，提示错误代码0xC004E015
 
     这种错误是因为Office证书出现错误，可能是在零售版转批量版的过程中产生的，重建系统许可证即可，参见下图。
-                          ![Image text](https://img.jbzj.com/file_images/article/202206/202206281045116661.jpg)
-    ![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![Image text](https://img.jbzj.com/file_images/article/202206/202206281045116661.jpg)
     2、激活Windows或Office时，提示错误代码0x80080005、0xC004F074
 
     0x80080005错误一般是执行激活命令时被拒绝;0xC004F074错误是无法连接KMS服务器。这两种问题的原因都可能是激活软件被杀毒软件阻止，请确保已关闭杀毒软件或把实时监控功能暂时关闭，通常都可以解决。
