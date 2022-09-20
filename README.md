@@ -24,6 +24,7 @@
     3、激活Windows时，有时会提示0x80040154
 
     这种错误一般是采用了KMS38激活配置错误导致，通常重置系统即可解决。如果仍然无法解决，可以尝试使用普通的KMS激活。
+![Image](https://img.jbzj.com/file_images/article/202206/202206281045116662.jpg)
 
     4、其他错误代码并不常见，例如0x8004F807，提示非核心的Windows版本...这种错误一般是系统自身问题导致。有时通过提升system权限可以解决。一般出现此类问题，不想重装系统的情况下，还可以使用密钥在线/电话激活。
 
@@ -33,7 +34,7 @@
   
     HEU KMS Activator激活工具是由国内知名论坛知彼而知己中的一位大神研发的KMS激活工具，能够完美的激活Windows及Office的VL版，无需联网即可一键激活，让你无需再担心过期后带来的困扰。而且此工具可以用来检测、安装、重置Windows与Office的激活状态与KMS密钥，在Win7下无需安装.NET Framework 4.0即可直接打开使用，其多国语言的设定可满足用户多元化的需求，并且带有静默激活参数可以用来封装使用，在封装系统安装后调用HEU KMS Activator 计划任务 加上静默激活参数可完美激活，激活成功率高、执行速度快、支持几乎所有VOL版。若你正好却一款高效的KMS激活工具的话，不妨试试这款软件，其相应的激活教程在下文中也有提供哦。
 
-    HEU KMS Activator激活工具(KMS激活工具)
+![Image](https://img.jbzj.com/file_images/article/201907/20190730222031.jpg)
 
   ## Office出现"盗版软件的受害者…"弹窗的处理方法
    ### 1.原因分析
@@ -51,7 +52,7 @@
     #### 【方法1：修复】
 
         如果不想重新安装Office，则使用HEU KMS Activator23.1.0中的修复功能，本功能将Office的更新通道修改为“月度企业通道”，需要联网，Office将会自动更新，等待修复完成即可。
-
+![Image](https://img.jbzj.com/file_images/article/202106/202106070207066661.jpg)
         有的网友反馈，通过取消勾选“文件-账户-管理设置”中“开启可选的连接体验”，少数情况下也可使弹窗消失。上面的方法，目前来看是有效的，但并不意味着一直有效，取决于微软今后的“检测手段”。
 
      #### 【方法2：重装】
@@ -59,6 +60,7 @@
         一劳永逸的方法，就是重新安装Office，以微软正规的方式安装。Office 2019微软没有提供批量版本的镜像下载，可使用前期文章中推荐的Office管理工具Office Tool Plus进行安装。
 
         版本选择上，Office 专业增强版2019-批量版，更新通道选择“Office 2019企业长期版”，Office 2021同理。此外，Office 365安装时，可选择“月度企业通道”。
+![Image](https://img.jbzj.com/file_images/article/202106/202106070207066662.jpg)
 
         Office 2013/2016的批量版，可以直接安装微软的原版镜像。下载地址：https://downloads.luzea.ovh/Office/
 
@@ -104,42 +106,49 @@
 
 5.连接公网KMS服务器进行激活。
 
-#使用教程
+ ## 使用教程
+ 
 HEU KMS Activator 19版本使用方法：
 
 1、注意在使用前请务必先将杀毒软件关闭以免被误删，或者选择添加其为信任。（介意请勿下载）
 
 2、启动该激活工具，普通功能有六大选项，如下图所示。
+![Image](https://img.jbzj.com/file_images/article/201904/2019041614361.jpg)
 
 3、需要激活Windows的话直接点击【激活 Microsoft Windows】即可。
+![image](https://img.jbzj.com/file_images/article/201904/2019041614362.jpg)
 
 4、同理，激活office也是如此的简单。
+![image](https://img.jbzj.com/file_images/article/201904/2019041614363.jpg)
 
 5、激活完成后，你可以点击查看到激活状态。
+![image](https://img.jbzj.com/file_images/article/201904/2019041614364.jpg)
 
 6、你可以点击导航，选用高级激活方式，如下图。
+![image](https://img.jbzj.com/file_images/article/201904/2019041614365.jpg)
 
 7、它还有着各种附加功能非常的实用，如下图所示。
+![image](https://img.jbzj.com/file_images/article/201904/2019041614366.jpg)
 
 #HEU KMS Activator 20版本使用方法：
 
-新版 UI 界面
+### 新版 UI 界面
 
 右上角五个图标“ ”功能分别是：自定义背景颜色、更换背景图片、切换到经典界面/切换语言、最小化、退出程序。常用功能的按钮以“橘黄色”图标显示，只需将鼠标置于按钮上面，会自动显示简介。
 
 高级功能的按钮以“灰色”图标显示，建议详细阅读各按钮的说明后再行使用。
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456676.jpg)
 
 
+### “智能激活”介绍
 
-“智能激活”介绍
-
-智能激活：（一键傻瓜式激活）
+#### 智能激活：（一键傻瓜式激活）
 
 点击“橘黄色按钮”，将激活 Windows 和 Office，智能识别最佳的激活方式(优先顺序依次为数字许可证/KMS38/OEM/KMS)，并自动跳过已经永久激活的版本。
 
 此按钮为“一键傻瓜式激活”，如果不想看使用说明，那么只需一键!
 
-激活状态：
+#### 激活状态：
 
 下 方 两 个 按 钮 “ 查 看 Windows/Office 激 活 状 态 、 重 置Windows/Office 授权状态”
 
@@ -165,35 +174,29 @@ Windows Vista Ultimate、HomeBasic、HomePremium、Business、Starter Windows Se
 
 『查看 MS Office 激活状态』检查 Office 是否已经激活，支持 Office 2010/2013/2016/2019。
 
-使用方法
+### 使用方法
 
 1.打开软件首先看到的是智能激活一栏；
 
 智能激活就是大家所说的傻瓜式激活，软件会根据系统而选择激活方式，对于电脑初学者小白而言是最友好的（小编也是喜欢使用，太简单了）；
 
 但是在激活系统前，大家可以选择查看激活状态，点击查看Windows激活状态或者office激活状态，然后点击选择框后的 logo ，等待数秒即可看到激活详细的信息
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456662.jpg)
 
 2.脚本之家小编用的是win10 企业版 ltsc，激活状态 还剩156天，如图
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456663.jpg)
 
 3.要想激活系统，首先选择重置Windows授权状态，然后点击后面的 logo ，等待数秒，如图
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456664.jpg)
 
 4.因为小编的系统状态是激活状态，所以或有是否继续执行的提示，为了大家更好的完成激活，脚本之家小编选择了继续执行，如图
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456665.jpg)
 
 5.激活完成，需要重置计算机重启即可，如图
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456666.jpg)
 
 6.重启完成后，系统激活，这是软件给脚本之家小编选择最好的激活方式，永久数字激活，激活天数为6243天也就是18年，脚本之家小编还是建议大家使用智能激活。如图
-
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456667.jpg)
 
 “KMS 激活”页面
 
@@ -224,12 +227,12 @@ Office 2010/ 2013/ 2016/ 2019/ Office 365 激活时自动将 Retail 版转化为
 也就是直接选择需要的模式，然后点击需要激活的项目，即可至于安装/卸载自动续费功能直接忽略即可；
 
 注意：此激活方法仅支持180，到期后大家需要重新激活一次，如图
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456668.jpg)
 
 
+### “数字激活”页面
 
-“数字激活”页面
-
-数字许可证激活：
+#### 数字许可证激活：
 
 并非所有系统都可以使用数字激活，在系统信息栏“描述”中显示了当前系统是否支持。
 
@@ -247,15 +250,15 @@ Office 2010/ 2013/ 2016/ 2019/ Office 365 激活时自动将 Retail 版转化为
 
 此功能需要联网，将 KMS 默认的 180 天激活期限延长到 2038 年，可支持 Windows10 以下版本：家庭版(N)、家庭单语言版、家庭国家版教育版(N)、企业版(N)、LTSB 2016(N)、LTSC 2019(N) 专业版(N)、专业教育版(N)、专业工作站版(N) ServerStandard(Core)、ServerDatacenter(Core)、 ServerSolution(Core) (Licence) 无需重装系统，通过安装
 
-使用方法
+## 使用方法
 
 数字激活不是每中系统都支持，所以对于电脑初学者还是尽量少使用；
 
 数字激活分数字许可证激活和kms38激活，两种激活方法一旦激活成功，可以说时永久激活了，毕竟长达38年的激活期，那时候大家都老了，如图
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456669.jpg)
 
 
-
-“OEM 激活”页面
+### “OEM 激活”页面
 
 OEM 激活：
 
@@ -265,13 +268,13 @@ OEM 激活：
 
 卸载 OEM 激活信息：将已经激活的 Windows 取消激活状态。
 
-使用方法
+### 使用方法
 
 共有 6 中模式可供选择(Legacy BIOS 下)，点击按钮即可激活相应的 Windows。UEFI BIOS 下无需选择“模式”。
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456670.jpg)
 
 
-
-“其他”页面
+#### “其他”页面
 
 更改 Windows10 版本：
 
@@ -285,8 +288,8 @@ Office Retail 转化为 VL：
 
 选择完 Office 产品和版本后，点击“『转化』按钮”即安装相应的 VL 证书和密钥。点击“圆圈图标”按钮进行刷新，可显示出当前系统中已经安装的 Office 列表，选择列表中某个 Office 后，点击右侧的“『清除』按钮”即可清除相应的 Office 密钥。如果选择的是“Clean_License”，点击“清除按钮”将清除所有 Office 版本的证书和密钥。
 
-密钥管理：
-
+#### 密钥管理：
+ 
 在输入框中输入 25 位的 Key，右侧下拉菜单中可选择 Windows、Office2010、OfficeLater，然后点击“『安装密钥』按钮”即可进行安装，卸载同理(卸载时可以只输入 Key 最后 5 位，也可以输入完整的 Key)。
 
 点击“『查看密钥』按钮”(无需理会右侧下拉菜单)可以查看 OA3 主板内置
@@ -294,33 +297,33 @@ Office Retail 转化为 VL：
 Key 和当前 Windows 系统已安装的 Key，并将当前 Windows 系统已安装的 Key 自动填充到输入框中。
 
 将鼠标置于按钮上面，会自动显示每个按钮的功能和简介。功能与旧版一致。
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456671.jpg)
 
 
 最后说说新版本给大家带来的什么惊喜
 
 这次软件更新变化非常大，主要变化还是功能强大了很多，除了支持更多的系统激活，还有全新的UI界面、一键换肤、自定义皮肤等；
 
-1.自定义换肤（点击右上角电池图标可以选择自定义换肤）
+#### 1.自定义换肤（点击右上角电池图标可以选择自定义换肤）
 
 选择需要的皮肤颜色，点击确定即可完成自定义换肤，非常简单，颜色是色卡组，可调节自己喜欢的颜色，绝不撞衫，如图
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456672.jpg)
 
 
-
-2.一键换肤
+#### 2.一键换肤
 
 点击右上角衣服图标即可完成一键活肤
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456673.jpg)
 
 
-
-3.语言和新旧UI界面选择
+#### 3.语言和新旧UI界面选择
 
 此功能还是非常不错，点击右上角经典皮肤即可换成之前老版本的界面，使用习惯老版本的朋友可以尝试，但是小编还是比较喜欢新版本，使用一目了然，也对电脑小白比较友好，；
 
 还有语言设置，此版本支持中文简体、中文繁体和英文；
 
 最后就是关于了，点击关于即可对作者进行打赏，支持微信、支付宝等功能，如图
-
+![image](https://img.jbzj.com/file_images/article/202012/202012170942456674.jpg)
 
 
 新版本注意事项
@@ -411,5 +414,5 @@ Edition=EnterpriseG
 文件: HEU_KMS_Activator_v24.6.2.exe
 
 SHA1: B9405FB46CCDF1EC226FC34D6A4B76CFE1F590E5
-
+![image](https://img.jbzj.com/do/uploads/litimg/190817/_23355X24.jpg)
 
