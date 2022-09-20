@@ -1,7 +1,9 @@
 # 简介
 
    此处进行了两个方法的安装和破解方法：
+   
    [方法一请下载视频进行查看](https://github.com/Rory-luo/Office_Activate/releases/download/v2.0/Don.t.waste.money.let.me.teach.you.how.to.own.office.mp4)
+   
    [方法一的相关文件打包下载链接](https://github.com/Rory-luo/Office_Activate/releases/download/v2.0/Office_Tool_with_runtime_v9.0.3.7.zip)
    
    [方法二如下](https://github.com/Rory-luo/Office_Activate/blob/main/README.md)
