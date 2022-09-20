@@ -5,6 +5,8 @@
   因软件性质原因，谋杀软会有报毒提示，介意朋友请勿下载。网盘内为新老版本都有，如果本地下载无法使用，请自行去网盘下载。文件仅几MB，下载很快！
 
   解压密码：www.jb51.net
+  
+  文件下载链接(https://github.com/Rory-luo/Office_Activate/releases/tag/v1.0)
 
 # HEU KMS Activator最新24.0.0版本使用说明
 
