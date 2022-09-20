@@ -6,7 +6,7 @@
 
   解压密码：www.jb51.net
   
-      文件下载链接(https://github.com/Rory-luo/Office_Activate/releases/tag/v1.0)
+  [KMS文件下载链接](https://github.com/Rory-luo/Office_Activate/releases/tag/v1.0)
 
 # HEU KMS Activator最新24.0.0版本使用说明
 
